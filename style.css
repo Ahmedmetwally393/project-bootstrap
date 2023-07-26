@@ -1,0 +1,15 @@
+.up{
+    position: fixed;
+    display: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+    color: #000;
+    background-color: yellow;
+    bottom: 15px;
+    right: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.up.show{
+    display: block;
+}
